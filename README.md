@@ -24,7 +24,7 @@ ENTONCES encuentro un titulo conciso y descriptivo
 
 ## Se puede acceder a la aplicación por medio del siguiente link:
 
-* [Link a aplicación contenida en repositorio de Github](https://jorgeramirezanzaldo.github.io/Repositorio-Desafio-1/)
+* [Link a aplicación](https://jorgeramirezanzaldo.github.io/Repositorio-Desafio-1/)
 
 ## La aplicación luce tal como se muestra en la siguiente imagen:
 
